@@ -8,3 +8,4 @@ def func_2():
 
 def func_3():
     print("another func 4")
+
